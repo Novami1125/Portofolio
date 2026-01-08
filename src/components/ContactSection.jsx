@@ -78,20 +78,6 @@ export const ContactSection = () => {
                                 content="mfahmia1125@gmail.com"
                                 href="mailto:mfahmia1125@gmail.com"
                             />
-                            
-                            <ContactInfoItem 
-                                icon={<Phone className="h-6 w-6 text-primary" />}
-                                title="Phone / WhatsApp"
-                                content="+62 8579-515-1319"
-                                href="https://wa.me/6285795151319"
-                            />
-                            
-                            <ContactInfoItem 
-                                icon={<MapIcon className="h-6 w-6 text-primary" />}
-                                title="Location"
-                                content="Cibiru, Bandung, Indonesia"
-                                href="https://maps.app.goo.gl/ffqdJxy8Frp1KhnC6"
-                            />
                         </div>
 
                         {/* Social Media */}
